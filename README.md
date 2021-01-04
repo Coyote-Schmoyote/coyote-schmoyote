@@ -22,7 +22,7 @@
 
 <hr>
 <div class="social" style="display: inline-block;">
-<p>How to reach me for my art:</p>
+How to reach me for my art:
 <a href="https://www.instagram.com/nina.zdanovic/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" alt="insta" height="34"></a> <br>
 For random stuff: 
 <a href="https://twitter.com/coyoteschmoyote"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-512.png" alt="twitter" height="34"></a> <br>
