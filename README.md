@@ -29,5 +29,5 @@ For random stuff:
 For work:
 <a href="https://www.linkedin.com/in/nina-ždanovič-7570791b6/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" alt="linkedin" height="34"></a>
 </div>
-
+<hr>
 Have a great day ahead, you, ✨beautiful github monster✨
