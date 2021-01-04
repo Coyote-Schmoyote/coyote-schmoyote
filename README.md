@@ -1,10 +1,9 @@
 ### Hi there 👋 
 <h2 style="text-align:center;"> My name is <a href="https://github.com/Coyote-Schmoyote">✨Nina✨</a></h2>
-<br>
-<h3>I got interested in coding 💻 in 2020 and I am currently learning to become a web developer 👩‍💻!</h3>
+<h3>I got interested in coding 💻 in 2020 and I am currently learning to become a web developer 👩‍💻</h3>
 <h5>Learning how computers and networks work, as well as understanding the logic behind the code was like discovering a whole new world. It's super exciting, and sometimes so overwhelming 🤯</h5>
 <hr>
- <li>⚔️ Weapons of choice:
+ ⚔️ Weapons of choice:
        <ul>
       <li>Python (Django)🐍</li>
       <li>JavaScript (React)☄️️</li>
@@ -18,7 +17,7 @@
       </ul>
       💥 Fun fact:
   <ul><img src="https://media3.giphy.com/media/CovFciJgWyxUs/200.gif" alt="artist"></ul>
-</li>
+
 
 <hr>
 <div class="social" style="display: inline-block;">
