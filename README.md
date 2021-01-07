@@ -10,10 +10,9 @@
       </ul>
     ⭐ Goals for 2021:
       <ul>
-      <li>Finish ths <a href="https://github.com/Coyote-Schmoyote/celebrity-recognizer">project</a> and this <a href="https://github.com/Coyote-Schmoyote/drag-queen-cards">project</a></li>
+      <li>Finish <a href="https://github.com/Coyote-Schmoyote/drag-queen-cards">this</a> project</li>
       <li>Get comfortable with building projects from sratch</li>
-      <li>Learn backend</li>
-      <li>Get a dev part-time job</li>
+      <li>Learn more backend</li>
       </ul>
       💥 Fun fact:
   <ul><img src="https://media3.giphy.com/media/CovFciJgWyxUs/200.gif" alt="artist"></ul>
