@@ -5,7 +5,7 @@
 <hr>
  ⚔️ Weapons of choice:
        <ul>
-      <li>Python (Django)🐍</li>
+      <li>Python (Flask)🐍</li>
       <li>JavaScript (React)☄️️</li>
       </ul>
     ⭐ Goals for 2021:
