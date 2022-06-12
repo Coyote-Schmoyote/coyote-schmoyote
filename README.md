@@ -5,8 +5,6 @@
 <ul>
   <li> 🌱 I’m currently learning <b>scikit-learn and deep learning</b></li>
 
-  <li> 💅 Right now, I'm working on a RuPaul's Drag Race Contestants Dataset <i>{in progress}</i></li>
-
   <li> 💬 Ask me about <b>cross-cultural robot-human interaction</b></li>
 
   <li> ✨ Fun fact: <b>I wrote a PhD thesis about the identities of Japanese artists</b></li>
