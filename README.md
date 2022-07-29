@@ -1,14 +1,6 @@
 
 <h2 align="center">Hi, I'm Nina 😼</h2>
-<h3 align="center">an AI/Data Science enthusiast from Vilnius 🇱🇹 living in Tokyo 🇯🇵</h3>
-
-<ul>
-  <li> 🌱 I’m currently learning <b>scikit-learn and deep learning</b></li>
-
-  <li> 💬 Ask me about <b>cross-cultural robot-human interaction</b></li>
-
-  <li> ✨ Fun fact: <b>I wrote a PhD thesis about the identities of Japanese artists</b></li>
-</ul>
+<h3 align="center">Working with AI/Data Science, originally from Vilnius 🇱🇹, and living in Tokyo 🇯🇵</h3>
 
 
 <div align="center">
